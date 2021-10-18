@@ -4,7 +4,7 @@
 
 💡 &nbsp; I'm a software developer and an information security enthusiast.\
 🎓 &nbsp; I'm currently studying Computer Engineering at CEFET-MG.\
-🌱 &nbsp; I'm learning about NodeJS, React Native, Angular and GraphQL.
+🌱 &nbsp; I'm learning about NodeJS, React Native, Angular, GraphQL and AWS.
 
 ### 🛠 &nbsp;Tech Stack
 
