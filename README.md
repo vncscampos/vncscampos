@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡   I'm a software developer and an information security enthusiast.<br>🎓   I'm currently studying Computer Engineering at CEFET-MG.<br>🌱   I'm learning about red team and SOC.</p>
+<p align="left">💡   I'm a software developer and an information security enthusiast.<br>🎓   I'm currently studying Computer Engineering at CEFET-MG.<br>🌱   I'm learning about web vulnerabilities and SOC.</p>
 
 ###
 
