@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">💡   I'm a software developer and an information security enthusiast.<br>🎓   I'm currently studying Computer Engineering at CEFET-MG.<br>🌱   I'm learning about web vulnerabilities.</p>
+<p align="left">
+  💻 I'm a Full Stack Developer focused on building scalable and reliable software solutions.<br>
+  🔐 I'm passionate about Information Security and understanding how systems can be built securely.<br>
+  🚀 I'm constantly learning about software architecture and secure software development.
+</p>
+
+
 
 ###
 
